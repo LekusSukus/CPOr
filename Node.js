@@ -5,7 +5,7 @@ export default async function handler(req, res) {
   }
 
   // 2. ВШИТЫЙ АКТУАЛЬНЫЙ URL ТВОЕГО GOOGLE WEB APP
-  const GAS_URL = "https://script.google.com/macros/s/AKfycbzqEyMgsU6E3_IadsZb5tNgDFZVfWYNgwgUwXpYbXcIpqGDr5vzr7UKo5hLLqFWpegbjg/exec";
+  const GAS_URL = "https://script.google.com/macros/s/AKfycbxhnF3Do6nOPGdyQpBhwXkIAKatFu8SgJCHFKgsrWfXVPYt3Q4Hj9ph2ICbsmTX18c/exec";
 
   try {
     // 3. Отправляем зеркальный запрос в Google Apps Script
